@@ -7,3 +7,5 @@ https://www.researchgate.net/
 https://doaj.org/
 
 https://scholar.google.com/
+
+https://www.redalyc.org/
